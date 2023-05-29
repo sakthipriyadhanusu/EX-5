@@ -1,5 +1,5 @@
 # EX-5 IMPLEMENTATION OF REVERSE ADDRESS RESOLUTION PROTOCOL ( RARP )
-# DATE::05-04-2023
+# DATE:05-04-2023
 
 ## AIM:
 To write a python program for simulating RARP protocols using UDP.
@@ -25,6 +25,8 @@ To write a python program for simulating RARP protocols using UDP.
 ## PROGRAM:
 ## CLIENT:
 ```
+DEVELOPED BY: SAKTHI PRIYA D
+REG NO: 212222040139
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
