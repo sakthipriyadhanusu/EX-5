@@ -25,8 +25,8 @@ To write a python program for simulating RARP protocols using UDP.
 ## PROGRAM:
 ## CLIENT:
 ```
-DEVELOPED BY: SAKTHI PRIYA D
-REG NO: 212222040139
+##DEVELOPED BY: SAKTHI PRIYA D
+##REG NO: 212222040139
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
